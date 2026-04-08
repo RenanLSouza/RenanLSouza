@@ -10,7 +10,10 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/renanlssouza/"><img width="40px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/Fba8Mj5.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
+  </p>
+  
+  <br/>
+
   <p align="center">
     </a> 
     <a href="https://github.com/RenanLSouza?tab=repositories&sort=stargazers">
@@ -26,7 +29,8 @@
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/RenanLSouza?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
-    </a>  &#8287;&#8287;&#8287;&#8287;&#8287;
+    </p>  
+    
   <summary><h2>🛠️ My Expierence Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
