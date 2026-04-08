@@ -21,8 +21,7 @@
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/RenanLSouza?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
+        /></a>
     <a href="https://github.com/RenanLSouza?tab=followers">
         <img 
             alt="Seguidores" 
