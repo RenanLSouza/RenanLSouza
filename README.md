@@ -92,7 +92,7 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/RenanLSouza/Teste-Pratico-Java"><img width="278" src="https://github.com/RenanLSouza/Teste-Pratico-Java/api/pin/?username=RenanLSouza&repo=Teste-Pratico-Java&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/RenanLSouza/Teste-Pratico-Java"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RenanLSouza&repo=flask&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
   </p>
 
 <details> 
