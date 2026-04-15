@@ -93,7 +93,6 @@
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
     <a href="https://github.com/RenanLSouza/Teste-Pratico-Java"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RenanLSouza&repo=Teste-Pratico-Java&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
-    <p align="left">
     <a href="https://github.com/RenanLSouza/Whatsapp_financial-bot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RenanLSouza&repo=Whatsapp_financial-bot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
   </p>
 
